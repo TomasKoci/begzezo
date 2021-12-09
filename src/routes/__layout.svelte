@@ -1,3 +1,5 @@
-<slot/>
+<script>
+	import '../app.css';
+</script>
 
-spira je gej
+<slot />
